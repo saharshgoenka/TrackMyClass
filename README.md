@@ -25,25 +25,6 @@ This repository contains only the **Discord bot** that connects to a private bac
 
 ---
 
-## ⚙️ Installation
-
-1. **Clone this repo**  
-   git clone https://github.com/saharshgoenka/TrackMyClass.git
-   cd trackmyclass-discord-bot
-
-2. **Create a .env file** in the project root:  
-   FLASK_API_URL=https://api.trackmyclass.org  
-   DISCORD_TOKEN=your-discord-bot-token  
-   GUILD_ID=your-dev-guild-id   # optional: for dev-only testing
-
-3. **Install dependencies**  
-   pip install -r requirements.txt
-
-4. **Run the bot**  
-   python discord_application.py
-
----
-
 ## 💬 Slash Commands & Usage
 
 All commands must be sent in **Direct Messages** to the bot.
