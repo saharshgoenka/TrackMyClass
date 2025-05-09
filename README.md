@@ -28,7 +28,7 @@ This repository contains only the **Discord bot** that connects to a private bac
 ## ⚙️ Installation
 
 1. **Clone this repo**  
-   git clone https://github.com/YourOrg/trackmyclass-discord-bot.git  
+   git clone https://github.com/saharshgoenka/TrackMyClass.git
    cd trackmyclass-discord-bot
 
 2. **Create a .env file** in the project root:  
@@ -40,7 +40,7 @@ This repository contains only the **Discord bot** that connects to a private bac
    pip install -r requirements.txt
 
 4. **Run the bot**  
-   python bot.py
+   python discord_application.py
 
 ---
 
