@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" alt="TrackMyClass Logo" style="border-radius: 10px; max-width: 10px;">
+  <img src="logo.png" alt="TrackMyClass Logo" width="50" height="50">
 </p>
 
 # TrackMyClass Discord Bot
