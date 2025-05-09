@@ -2,7 +2,7 @@
   <img src="logo.png" alt="TrackMyClass Logo" width="400" height="400">
 </p>
 
-# TrackMyClass Discord Bot
+# TrackMyClass Application
 
 > A lightweight Discord front-end for TrackMyClass — never miss an ASU class opening again.
 
