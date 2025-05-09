@@ -58,7 +58,7 @@ All commands must be sent in **Direct Messages** to the bot.
 | `/history <class_number>` | Show the last 5 open/close events and average open duration (e.g. `/history 12345`).            |
 | `/testdm`                 | Verify that the bot can send you DMs. If it fails, adjust your Discord privacy settings.        |
 
-> **Note:** If you try a command in a server channel, you’ll receive a “DM Only” error—commands must be issued via DM.
+> **Note:** If you try the /subscribe command in a server channel, you’ll receive a “DM Only” error—commands must be issued via DM.
 
 ---
 
